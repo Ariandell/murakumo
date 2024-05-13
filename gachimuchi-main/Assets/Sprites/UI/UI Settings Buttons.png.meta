@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 71563fad11ce3584ba79188f55078446
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI Settings Buttons_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 105
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327b795dbab5bad45876bf860e5dee82
+      internalID: 850241093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Settings Buttons_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 105
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6439fad170da1f48a18a8b250143582
+      internalID: -1698730337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Settings Buttons_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2312d32c8b254a4d9a2ed5122e7f748
+      internalID: -60723999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Settings Buttons_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 134
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e93fee9240086c43a869f26cea18bc0
+      internalID: -1271591245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Settings Buttons_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 70
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45425a65042daf841b4b88ded7cf7f86
+      internalID: -670807117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI Settings Buttons_0: -1271591245
+      UI Settings Buttons_1: -670807117
+      UI Settings Buttons_10: -1302695504
+      UI Settings Buttons_11: -214055389
+      UI Settings Buttons_12: 1581929541
+      UI Settings Buttons_13: -283775887
+      UI Settings Buttons_14: 2056704929
+      UI Settings Buttons_15: -1511194793
+      UI Settings Buttons_16: 1218039063
+      UI Settings Buttons_17: 349263492
+      UI Settings Buttons_18: 381880284
+      UI Settings Buttons_19: -1051033107
+      UI Settings Buttons_2: -556685909
+      UI Settings Buttons_20: 638352964
+      UI Settings Buttons_21: -2030040235
+      UI Settings Buttons_22: 825289928
+      UI Settings Buttons_23: -500162049
+      UI Settings Buttons_24: -1514765720
+      UI Settings Buttons_25: 850241093
+      UI Settings Buttons_26: -1698730337
+      UI Settings Buttons_27: -524493515
+      UI Settings Buttons_28: -206003772
+      UI Settings Buttons_29: 1669718974
+      UI Settings Buttons_3: 1703368613
+      UI Settings Buttons_30: -538327426
+      UI Settings Buttons_31: -1214157709
+      UI Settings Buttons_32: 1545350018
+      UI Settings Buttons_33: 226840659
+      UI Settings Buttons_34: 1468951888
+      UI Settings Buttons_35: -740668720
+      UI Settings Buttons_36: -1724554138
+      UI Settings Buttons_37: 47666057
+      UI Settings Buttons_38: 485447734
+      UI Settings Buttons_39: 848617658
+      UI Settings Buttons_4: -670324801
+      UI Settings Buttons_40: -1110583084
+      UI Settings Buttons_41: -1233468052
+      UI Settings Buttons_42: 851443072
+      UI Settings Buttons_43: -1432135271
+      UI Settings Buttons_44: 1809050488
+      UI Settings Buttons_45: 1155132629
+      UI Settings Buttons_46: -924368544
+      UI Settings Buttons_47: -1547653559
+      UI Settings Buttons_48: 1840961730
+      UI Settings Buttons_49: -1146459104
+      UI Settings Buttons_5: 593628847
+      UI Settings Buttons_50: -60723999
+      UI Settings Buttons_51: 1283826444
+      UI Settings Buttons_6: 1059698516
+      UI Settings Buttons_7: 412053921
+      UI Settings Buttons_8: -2023990292
+      UI Settings Buttons_9: 833978927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
